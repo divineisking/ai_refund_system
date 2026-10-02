@@ -26,6 +26,7 @@ class RefundRequest extends Model
         'evaluation_mode',
         'raw_model_response',
         'status',
+        'ai_status',
         'admin_notes',
         'manual_decision',
         'reviewed_by',
