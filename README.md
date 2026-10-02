@@ -44,7 +44,7 @@ An enterprise-grade, AI-powered e-commerce customer support refund platform that
  │                       ▼                       └──────────────┬──────────────┘          │
  │        ┌─────────────────────────────┐                       │                         │
  │        │ Gemini LLM Client           │                       │                         │
- │        │ • gemini-1.5-flash JSON API │                       │                         │
+ │        │ • gemini-2.0-flash JSON API │                       │                         │
  │        │ • Deterministic Fallback    │◄──────────────────────┘                         │
  │        │   Engine (Zero-Config Mode) │                                                 │
  │        └─────────────────────────────┘                                                 │
